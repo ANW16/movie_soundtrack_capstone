@@ -16,6 +16,12 @@ keys/
 Key/
 Keys/
 
+#presentation
+presentation/
+presentations/
+Presentation/
+Presentations/
+
 # Distribution / packaging
 .Python
 build/
